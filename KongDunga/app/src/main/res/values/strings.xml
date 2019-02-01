@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kong Dunga</string>
+    <string name="mobile">Mobile</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="create_account">Create account?</string>
+    <string name="username">UserName:</string>
+    <string name="mobile_info">Mobile:</string>
+    <string name="password_Info">Password:</string>
+    <string name="mobile_infor">Mobile</string>
+    <string name="pass_Infor">password</string>
+    <string name="user_name">User name</string>
+    <string name="kong_dunga">Kong Dunga</string>
+    <string name="create_your_profile">Create your Profile</string>
+    <string name="next">next</string>
+</resources>
